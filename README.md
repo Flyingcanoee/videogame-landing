@@ -1,1 +1,3 @@
-# Landing Page for an imaginary video game
+# Лендинг пейдж для видеоигры
+
+Демо: https://flyingcanoee.github.io/videogame-landing/
