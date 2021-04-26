@@ -101,14 +101,14 @@
     -webkit-mask-position: left center;
 }
 .fog-img-first {
-    background: url("../img/fog-1.png");
+    background: url("./img/fog-1.png");
     background-repeat: repeat-x;
     background-size: contain;
     background-position: center;
     animation: marquee 60s linear infinite;
 }
 .fog-img-second {
-    background: url("../img/fog-2.png");
+    background: url("./img/fog-2.png");
     background-repeat: repeat-x;
     background-size: contain;
     background-position: center;
@@ -332,7 +332,7 @@ input[type="text"], input[type="password"]{
     position: absolute;
     height: 100vh;
     top: -150px;
-    background-image: url(/img/dragon.svg);
+    background-image: url(./img/dragon.svg);
     background-size: cover;
     background-position: 50%;
     
@@ -343,7 +343,7 @@ input[type="text"], input[type="password"]{
         position: absolute;
         height: 100vh;
         top: -150px;
-        background-image: url(/img/dragon.svg);
+        background-image: url(./img/dragon.svg);
         background-position: 45%;
         background-size: cover;
     }
@@ -354,7 +354,7 @@ input[type="text"], input[type="password"]{
         position: absolute;
         height: 100vh;
         top: -110px;
-        background-image: url(/img/dragon.svg);
+        background-image: url(./img/dragon.svg);
         background-position: 40%;
         background-size: cover;
     }
